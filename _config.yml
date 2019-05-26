@@ -112,7 +112,7 @@ author:
   bio              : "Chemist studying history and recent trends in organic/inorganic chemistry"
   location         : "POSTECH, Pohang"
   email            : "chemhy0714@gmail.com"
-  twitter          : "https://twitter.com/HSong_chem"
+  twitter          : "/HSong_chem"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
